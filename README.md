@@ -5,7 +5,7 @@ check here [ Live Site ](https://chia-liu.github.io/mySketch-flow/)
 
 ### Screenshot
 
-![image](https://i.imgur.com/lSmSdJl.mp4)
+![image](/mySketch-flow.mp4)
 
 ### Built with
 - using p5.js
